@@ -1,2 +1,14 @@
-# redes-de-computadores
-Repositório para as aulas, exercícios e resumos das matérias: redes de computadores I, II, gerência de redes e redes de telecomunicações. 
+# Redes de Computadores
+<img src="images/image_bd.png" width="10%" height="10%" align="center" valign="center"/> 
+
+## Noções Básicas
+
+## Topologia de Redes
+Uma topologia é um **layout**, um formato que determina como os computadores vão se ligar.
+
+<img src="images/image_bd.png" width="10%" height="10%" align="center" valign="center"/> 
+
+
+
+
+## Arquitetura de Redes
