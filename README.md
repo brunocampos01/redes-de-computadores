@@ -1,5 +1,9 @@
 # Redes de Computadores <img src="images/icon.png" width="10%" height="10%" align="center" valign="center"/> 
 
+```
+Understanding of DNS, TCP, Firewalls, Proxy Servers, Load Balancing, VPN and VPC and working knowledge of Linux.
+```
+
 ## Noções Básicas
 
 ### Máscara de sub-rede
