@@ -7,9 +7,9 @@ Understanding of DNS, TCP, Firewalls, Proxy Servers, Load Balancing, VPN and VPC
 
 ### Simulador SMTP :mailbox_closed::inbox_tray:
 Neste problema replicamos o [protocolo SMTP](https://pt.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) utilizando [*sockets*](https://pt.wikipedia.org/wiki/Soquete_de_rede). Entenda o fluxo:<br/>
-1. **[Client 1](smtp_socket/client_1.py) (Alice)** conecta no **[Server 1](./smtp_socket/server1.py)** (Servidor de correio de Alice) e envia *payload* (ou seja, sua mensagem).
+1. **[Client 1](smtp_socket/client_1.py) (Alice)** conecta no **[Server 1](smtp_socket/server_1.py)** (Servidor de correio de Alice) e envia *payload* (ou seja, sua mensagem).
 2. **Server 1** age como "cliente" e se conecta no **Server 2** (Servidor de correio do Bob) e envia a mensagem de Alice.
-3. **[Client 2](./smtp_socket/client2.py) (Bob)** se conecta no **[Server 2](./smtp_socket/server2.py)**, e então o mesmo envia a mensagem para Bob.
+3. **[Client 2](./smtp_socket/client_2.py) (Bob)** se conecta no **[Server 2](./smtp_socket/server_2.py)**, e então o mesmo envia a mensagem para Bob.
 <br/>
 
 Execute, respectivamente, nesta ordem: servidor 2, servidor 1, cliente 1 e cliente 2:
