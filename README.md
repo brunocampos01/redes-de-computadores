@@ -20,6 +20,14 @@ $ python client_1.py
 $ python client_2.py
 ```
 
+### Caminho Mínimo de Roteamento (Dijkstra Algoritm) :arrows_counterclockwise::soon:
+O **[Caminho Mínimo de Roteamento](./caminho_minimo_roteamento/dijkstra.py)** é executado por cada nó de comutação na rede (isto é, nós preparados para encaminhar pacotes; na Internet, esses são chamados de roteadores). O conceito básico é que cada nó constrói um mapa da conectividade com a rede, na forma de um grafo, mostrando quais nós estão conectados a quais outros nós. Cada nó calcula, de forma independente, o melhor caminho lógico seguinte para cada destino possível na rede. Cada coleção de melhores caminhos formará a tabela de roteamento de cada nó. É o algoritmo de Dijkstra.
+
+<img align="center" src="http://aprogrammerwrites.eu/wp-content/uploads/2015/04/Dijkstra-network.jpg"/>
+<span align="center">Exemplo de um caminho mínimo</span>
+
+
+
 ## Noções Básicas
 
 ### Máscara de sub-rede
