@@ -1,9 +1,19 @@
-# Redes de Computadores <img src="images/icon.png" width="10%" height="10%" align="center" valign="center"/> 
 
 ```
+TODO
+
 Understanding of DNS, TCP, Firewalls, Proxy Servers, Load Balancing, VPN and VPC and working knowledge of Linux.
 ```
 
+# Redes de Computadores <img src="images/icon.png" width="10%" height="10%" align="center" valign="center"/> 
+
+## Requirements
+| Requisite      | Version  |
+|----------------|----------|
+| Python         | 3.9.7    |
+| Pip            | 21.2.4   |
+
+Recomendo usar Python [venv](https://github.com/brunocampos01/becoming-a-expert-python#virtual-environment).
 
 ### Simulador SMTP :mailbox_closed::inbox_tray:
 Neste problema replicamos o [protocolo SMTP](https://pt.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) utilizando [*sockets*](https://pt.wikipedia.org/wiki/Soquete_de_rede). Entenda o fluxo:<br/>
