@@ -1,9 +1,20 @@
-
+<!-- TODO
 ```
-TODO
-
 Understanding of DNS, TCP, Firewalls, Proxy Servers, Load Balancing, VPN and VPC and working knowledge of Linux.
 ```
+
+### Network programming
+
+- Let's Code a TCP/IP Stack
+
+  - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+  - [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
+  - [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
+  - [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
+  - [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+ -->
+
+
 
 # Redes de Computadores <img src="images/icon.png" width="10%" height="10%" align="center" valign="center"/> 
 
