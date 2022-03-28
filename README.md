@@ -16,7 +16,7 @@ Understanding of DNS, TCP, Firewalls, Proxy Servers, Load Balancing, VPN and VPC
 
 
 
-# Redes de Computadores <img src="images/icon.png" width="10%" height="10%" align="center" valign="center"/> 
+# (Working in Progress) Redes de Computadores <img src="images/icon.png" width="10%" height="10%" align="center" valign="center"/> 
 
 ## Requirements
 | Requisite      | Version  |
